@@ -31,7 +31,7 @@ Education Systems (C# / .NET)
 - Performance Analytics Dashboard
 
 ## Python & Django Projects
-- Bursary Management System – Role-based login, file uploads, SMS notifications (Africa's Talking)
+- Bursary Management System – Role-based login, file uploads, SMS notifications
 - Event Registration Platform
 - Task Manager with CRUD
 
